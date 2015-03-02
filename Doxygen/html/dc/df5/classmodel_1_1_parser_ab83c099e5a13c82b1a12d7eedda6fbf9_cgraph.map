@@ -1,0 +1,11 @@
+<map id="model.Parser.parseAndExecute" name="model.Parser.parseAndExecute">
+<area shape="rect" id="node2" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="275,232,445,259"/>
+<area shape="rect" id="node9" href="$d6/de7/classview_1_1_s_logo_view.html#acf8498d7311bed1575638cca1c3f8777" title="view.SLogoView.openDialog" alt="" coords="514,392,710,419"/>
+<area shape="rect" id="node3" href="$d2/d19/classmodel_1_1_node.html#a59dd0ae47774a51a1590d7fd205b14d5" title="model.Node.addChild" alt="" coords="533,5,691,32"/>
+<area shape="rect" id="node4" href="$d2/d19/classmodel_1_1_node.html#a30a55e40eef5514f8201573584ca9aea" title="model.Node.getChildren" alt="" coords="523,56,701,83"/>
+<area shape="rect" id="node5" href="$d1/dca/classmodel_1_1_execution_environment.html#a296a88c7bb936eb502efc9d212bfe6db" title="model.ExecutionEnvironment.get\lCommand" alt="" coords="495,107,729,149"/>
+<area shape="rect" id="node6" href="$d2/d19/classmodel_1_1_node.html#a3036121af674a3a8ff49e82bd77ab5a4" title="model.Node.getInstruction" alt="" coords="516,173,708,200"/>
+<area shape="rect" id="node7" href="$d1/dea/classmodel_1_1instructions_1_1_instruction.html#afd4726dcbdbf559356c38970061d9b79" title="model.instructions.Instruction.get\lNumberOfArguments" alt="" coords="494,225,730,266"/>
+<area shape="rect" id="node8" href="$dc/df5/classmodel_1_1_parser.html#ae24603572f6f919b363a7cef0cbe45c0" title="model.Parser.match" alt="" coords="779,316,930,343"/>
+<area shape="rect" id="node10" href="$dc/df5/classmodel_1_1_parser.html#a367f66d63cda3e0b2733b078c20a1f73" title="model.Parser.testMatches" alt="" coords="518,341,706,368"/>
+</map>

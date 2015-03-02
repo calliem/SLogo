@@ -1,0 +1,9 @@
+<map id="view.SLogoView.update" name="view.SLogoView.update">
+<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a7eac9bbab890abbeb7db1a095fca5fc8" title="model.ExecutionEnvironment.get\lUserCommandMap" alt="" coords="225,5,460,46"/>
+<area shape="rect" id="node3" href="$d1/dca/classmodel_1_1_execution_environment.html#ac3358313bc5412e41c2d6776afa3f47c" title="model.ExecutionEnvironment.get\lVariableMap" alt="" coords="225,70,460,111"/>
+<area shape="rect" id="node4" href="$d6/de7/classview_1_1_s_logo_view.html#ad5c465555f7c4fb13fcb0c67050ff52f" title="view.SLogoView.updateCommand" alt="" coords="225,136,461,163"/>
+<area shape="rect" id="node6" href="$d1/dc7/classview_1_1_side_bar.html#a2dc05802f4e11129fd7d9e07d8b026e1" title="view.SideBar.updateVariable" alt="" coords="242,187,443,213"/>
+<area shape="rect" id="node5" href="$d1/dc7/classview_1_1_side_bar.html#aea1c222b09a77a6f88ae9360c401f595" title="view.SideBar.updateCommand" alt="" coords="510,136,727,163"/>
+<area shape="rect" id="node7" href="$db/d74/classview_1_1_variable_view.html#ac06d4a94a767d9fe7a844ff29ca5dc24" title="view.VariableView.getName" alt="" coords="521,187,716,213"/>
+<area shape="rect" id="node8" href="$db/d74/classview_1_1_variable_view.html#ac1e76130d83d4d8c8ebd20476854ed9a" title="view.VariableView.getValue" alt="" coords="523,237,714,264"/>
+</map>
