@@ -1,0 +1,21 @@
+<map id="model.instructions.MovementInstruction.updateView" name="model.instructions.MovementInstruction.updateView">
+<area shape="rect" id="node2" href="$d6/de7/classview_1_1_s_logo_view.html#a513d723c883c5b96c9fdf1f16f829bc8" title="view.SLogoView.updateWorkspace" alt="" coords="267,263,504,289"/>
+<area shape="rect" id="node3" href="$de/d0a/classview_1_1_drawer.html#a6b9f362b8bc763689630b1fe7b5c1887" title="view.Drawer.draw" alt="" coords="552,263,683,289"/>
+<area shape="rect" id="node4" href="$d3/d75/classmodel_1_1turtle_1_1_turtle_command.html#abe0b0e84640746cd35bef5b65e34a129" title="model.turtle.TurtleCommand.get\lTurtleId" alt="" coords="731,5,962,46"/>
+<area shape="rect" id="node5" href="$d3/d75/classmodel_1_1turtle_1_1_turtle_command.html#aa6e23531cfc94f83a3ef03844c96eb9f" title="model.turtle.TurtleCommand.get\lPolar" alt="" coords="731,70,962,111"/>
+<area shape="rect" id="node6" href="$de/d0a/classview_1_1_drawer.html#a42d5b456b04ee116e144c775f7a192e8" title="view.Drawer.wrapY" alt="" coords="778,187,915,213"/>
+<area shape="rect" id="node7" href="$d8/df7/classview_1_1_turtle_view.html#a5e7cf3c4f078acae07bcbeee264a5581" title="view.TurtleView.move" alt="" coords="1040,161,1195,188"/>
+<area shape="rect" id="node8" href="$d8/df7/classview_1_1_turtle_view.html#a68c8a2962e23e5794fcfbe7ef1968fad" title="view.TurtleView.getPenUp" alt="" coords="1027,263,1208,289"/>
+<area shape="rect" id="node10" href="$de/d0a/classview_1_1_drawer.html#a49908b04e4a4d7873d6dc51c60084c17" title="view.Drawer.wrapX" alt="" coords="777,237,916,264"/>
+<area shape="rect" id="node11" href="$d3/d75/classmodel_1_1turtle_1_1_turtle_command.html#a5319a5aabe782066e1eef292fe855db6" title="model.turtle.TurtleCommand.is\lRelative" alt="" coords="737,339,956,381"/>
+<area shape="rect" id="node12" href="$d8/df7/classview_1_1_turtle_view.html#a199407b3121d1bc310d7f75cdab2da94" title="view.TurtleView.setRelative\lHeading" alt="" coords="753,405,940,446"/>
+<area shape="rect" id="node14" href="$d8/df7/classview_1_1_turtle_view.html#a166c0ff50e234c0a2725aa1cbc38c933" title="view.TurtleView.setAbsolute\lHeading" alt="" coords="749,470,944,511"/>
+<area shape="rect" id="node15" href="$d1/dc7/classview_1_1_side_bar.html#a0e6b8bded054449259862ef89afdc74d" title="view.SideBar.updateTurtle\lProperties" alt="" coords="755,546,939,587"/>
+<area shape="rect" id="node9" href="$de/d0a/classview_1_1_drawer.html#a1489f58b0b2c2012d23d546013a47972" title="view.Drawer.drawLine" alt="" coords="1039,212,1195,239"/>
+<area shape="rect" id="node13" href="$d8/df7/classview_1_1_turtle_view.html#aea0727a510b53db67aa4100a6106eb5b" title="view.TurtleView.adjustAngle" alt="" coords="1021,412,1214,439"/>
+<area shape="rect" id="node16" href="$d8/df7/classview_1_1_turtle_view.html#ab5fdc3775e06339f4a68d1b795a81643" title="view.TurtleView.getID" alt="" coords="1041,564,1193,591"/>
+<area shape="rect" id="node17" href="$d8/df7/classview_1_1_turtle_view.html#afa5ff9ad664f5365e08a1940c99b8a59" title="view.TurtleView.getYCoord" alt="" coords="1026,615,1209,641"/>
+<area shape="rect" id="node18" href="$d8/df7/classview_1_1_turtle_view.html#a5da3d4c9dafb77af0db0c589a72eadc8" title="view.TurtleView.getHeading" alt="" coords="1021,665,1213,692"/>
+<area shape="rect" id="node19" href="$d8/df7/classview_1_1_turtle_view.html#a85b9acc922cc69f27c79bf13e3356e09" title="view.TurtleView.getPenPosition" alt="" coords="1011,463,1224,489"/>
+<area shape="rect" id="node20" href="$d8/df7/classview_1_1_turtle_view.html#a5f7b22cd8ab69258535b18920a488b63" title="view.TurtleView.isShowing" alt="" coords="1027,513,1208,540"/>
+</map>
