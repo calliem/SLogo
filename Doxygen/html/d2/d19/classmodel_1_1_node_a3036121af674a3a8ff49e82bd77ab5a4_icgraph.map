@@ -1,0 +1,8 @@
+<map id="model.Node.getInstruction" name="model.Node.getInstruction">
+<area shape="rect" id="node2" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="245,31,416,57"/>
+<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="464,31,685,57"/>
+<area shape="rect" id="node4" href="$d4/dd9/classcontroller_1_1_s_logo_controller.html#a1a88b376059e31c3f311d75fa640d848" title="controller.SLogoController.parse\lInput" alt="" coords="733,23,960,65"/>
+<area shape="rect" id="node5" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="1021,5,1149,32"/>
+<area shape="rect" id="node7" href="$d1/dc7/classview_1_1_side_bar.html#a0a3b8741c9b47577cbff0a090e4c6ff2" title="view.SideBar.SideBar" alt="" coords="1008,56,1163,83"/>
+<area shape="rect" id="node6" href="$da/dc8/classview_1_1_editor.html#a3905b799edd56b1c60528737ca88ce28" title="view.Editor.Editor" alt="" coords="1211,5,1341,32"/>
+</map>
