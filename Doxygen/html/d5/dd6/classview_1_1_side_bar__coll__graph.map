@@ -1,0 +1,10 @@
+<map id="view.SideBar" name="view.SideBar">
+<area shape="rect" id="node13" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="1141,597,1262,624"/>
+<area shape="rect" id="node14" href="$da/d64/classview_1_1_workspace.html" title="view.Workspace" alt="" coords="723,749,843,776"/>
+<area shape="rect" id="node21" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="2062,132,2151,159"/>
+<area shape="rect" id="node4" href="$d4/dd9/classcontroller_1_1_s_logo_controller.html" title="controller.SLogoController" alt="" coords="1739,227,1925,253"/>
+<area shape="rect" id="node5" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="1517,353,1624,380"/>
+<area shape="rect" id="node8" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="1097,321,1306,348"/>
+<area shape="rect" id="node16" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="403,761,517,788"/>
+<area shape="rect" id="node27" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="734,807,831,833"/>
+</map>
