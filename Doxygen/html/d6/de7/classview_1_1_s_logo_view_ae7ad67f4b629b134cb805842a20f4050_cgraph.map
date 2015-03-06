@@ -1,7 +1,0 @@
-<map id="view.SLogoView.setHeading" name="view.SLogoView.setHeading">
-<area shape="rect" id="node2" href="$d1/dc7/classview_1_1_side_bar.html#a7d73038dbba05f96990b60664afa2670" title="view.SideBar.updateTurtle\lProperties" alt="" coords="251,74,435,115"/>
-<area shape="rect" id="node3" href="$d8/df7/classview_1_1_turtle_view.html#ab5fdc3775e06339f4a68d1b795a81643" title="view.TurtleView.getID" alt="" coords="513,5,665,32"/>
-<area shape="rect" id="node4" href="$d8/df7/classview_1_1_turtle_view.html#a85b9acc922cc69f27c79bf13e3356e09" title="view.TurtleView.getPenPosition" alt="" coords="483,56,696,83"/>
-<area shape="rect" id="node5" href="$da/d64/classview_1_1_workspace.html#ad460da1164f039e5ea9a265d446d13fe" title="view.Workspace.getTurtleMap" alt="" coords="486,107,693,133"/>
-<area shape="rect" id="node6" href="$d8/df7/classview_1_1_turtle_view.html#a5f7b22cd8ab69258535b18920a488b63" title="view.TurtleView.isShowing" alt="" coords="499,157,680,184"/>
-</map>
