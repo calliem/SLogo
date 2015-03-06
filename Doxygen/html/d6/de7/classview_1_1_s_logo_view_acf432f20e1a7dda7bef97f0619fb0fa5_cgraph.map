@@ -1,0 +1,11 @@
+<map id="view.SLogoView.configureAddTurtlesButton" name="view.SLogoView.configureAddTurtlesButton">
+<area shape="rect" id="node2" href="$da/d64/classview_1_1_workspace.html#a58b943798f78aa9414a854dcd54fa7ae" title="view.Workspace.addTurtle" alt="" coords="238,67,421,93"/>
+<area shape="rect" id="node3" href="$da/d64/classview_1_1_workspace.html#a9eea72f983d5e7ad5af85056d927e380" title="view.Workspace.configure\lTurtleEventHandler" alt="" coords="470,59,653,101"/>
+<area shape="rect" id="node4" href="$da/d64/classview_1_1_workspace.html#a16bda9a6a7fe7f8d3d7b09108675f9c4" title="view.Workspace.setActive\lTurtle" alt="" coords="702,89,885,130"/>
+<area shape="rect" id="node7" href="$d8/df7/classview_1_1_turtle_view.html#ab5fdc3775e06339f4a68d1b795a81643" title="view.TurtleView.getID" alt="" coords="1196,5,1348,32"/>
+<area shape="rect" id="node5" href="$d1/dc7/classview_1_1_side_bar.html#a0e6b8bded054449259862ef89afdc74d" title="view.SideBar.updateTurtle\lProperties" alt="" coords="933,89,1117,130"/>
+<area shape="rect" id="node6" href="$d8/df7/classview_1_1_turtle_view.html#a5da3d4c9dafb77af0db0c589a72eadc8" title="view.TurtleView.getHeading" alt="" coords="1176,56,1368,83"/>
+<area shape="rect" id="node8" href="$d8/df7/classview_1_1_turtle_view.html#a85b9acc922cc69f27c79bf13e3356e09" title="view.TurtleView.getPenPosition" alt="" coords="1165,107,1379,133"/>
+<area shape="rect" id="node9" href="$d8/df7/classview_1_1_turtle_view.html#afa5ff9ad664f5365e08a1940c99b8a59" title="view.TurtleView.getYCoord" alt="" coords="1181,157,1363,184"/>
+<area shape="rect" id="node10" href="$d8/df7/classview_1_1_turtle_view.html#a5f7b22cd8ab69258535b18920a488b63" title="view.TurtleView.isShowing" alt="" coords="1181,208,1363,235"/>
+</map>

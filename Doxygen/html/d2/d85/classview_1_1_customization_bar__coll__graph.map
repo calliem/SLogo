@@ -1,0 +1,11 @@
+<map id="view.CustomizationBar" name="view.CustomizationBar">
+<area shape="rect" id="node22" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="271,704,361,731"/>
+<area shape="rect" id="node3" href="$da/d64/classview_1_1_workspace.html" title="view.Workspace" alt="" coords="1941,504,2061,531"/>
+<area shape="rect" id="node19" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="674,553,795,580"/>
+<area shape="rect" id="node5" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="1677,765,1792,792"/>
+<area shape="rect" id="node8" href="$d1/dc7/classview_1_1_side_bar.html" title="view.SideBar" alt="" coords="1683,453,1786,480"/>
+<area shape="rect" id="node10" href="$d4/dd9/classcontroller_1_1_s_logo_controller.html" title="controller.SLogoController" alt="" coords="1293,280,1480,307"/>
+<area shape="rect" id="node11" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="1051,401,1157,428"/>
+<area shape="rect" id="node14" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="630,332,839,359"/>
+<area shape="rect" id="node27" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="267,844,365,871"/>
+</map>

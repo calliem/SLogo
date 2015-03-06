@@ -1,0 +1,9 @@
+<map id="model.ExecutionEnvironment.getCommand" name="model.ExecutionEnvironment.getCommand">
+<area shape="rect" id="node2" href="$d9/d13/classmodel_1_1instructions_1_1_user_running_instruction.html#aa0e048b0bbca8aaddd3ea84bd0cf7bf7" title="model.instructions.UserRunning\lInstruction.execute" alt="" coords="288,5,512,46"/>
+<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="315,71,485,97"/>
+<area shape="rect" id="node4" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="560,71,781,97"/>
+<area shape="rect" id="node5" href="$d4/dd9/classcontroller_1_1_s_logo_controller.html#a1a88b376059e31c3f311d75fa640d848" title="controller.SLogoController.parse\lInput" alt="" coords="829,63,1056,105"/>
+<area shape="rect" id="node6" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="1117,45,1245,72"/>
+<area shape="rect" id="node8" href="$d1/dc7/classview_1_1_side_bar.html#a0a3b8741c9b47577cbff0a090e4c6ff2" title="view.SideBar.SideBar" alt="" coords="1104,96,1259,123"/>
+<area shape="rect" id="node7" href="$da/dc8/classview_1_1_editor.html#a3905b799edd56b1c60528737ca88ce28" title="view.Editor.Editor" alt="" coords="1307,45,1437,72"/>
+</map>
