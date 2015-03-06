@@ -1,0 +1,10 @@
+<map id="view.Workspace.setActiveTurtle" name="view.Workspace.setActiveTurtle">
+<area shape="rect" id="node2" href="$da/d64/classview_1_1_workspace.html#a9eea72f983d5e7ad5af85056d927e380" title="view.Workspace.configure\lTurtleEventHandler" alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node9" href="$da/d64/classview_1_1_workspace.html#af0ba64ced4d2d687a50503c4eb1a59a0" title="view.Workspace.Workspace" alt="" coords="701,71,893,97"/>
+<area shape="rect" id="node3" href="$da/d64/classview_1_1_workspace.html#a58b943798f78aa9414a854dcd54fa7ae" title="view.Workspace.addTurtle" alt="" coords="470,12,653,39"/>
+<area shape="rect" id="node4" href="$d6/de7/classview_1_1_s_logo_view.html#acf432f20e1a7dda7bef97f0619fb0fa5" title="view.SLogoView.configure\lAddTurtlesButton" alt="" coords="706,5,889,46"/>
+<area shape="rect" id="node5" href="$d6/de7/classview_1_1_s_logo_view.html#ae0050481c9168dd8eeb434d9aa79b047" title="view.SLogoView.configureUI" alt="" coords="942,12,1138,39"/>
+<area shape="rect" id="node6" href="$d1/d75/classview_1_1_main_view.html#a39a2b399924a553ccd89dd2a2e6ea208" title="view.MainView.newTab" alt="" coords="1187,12,1347,39"/>
+<area shape="rect" id="node7" href="$d1/d75/classview_1_1_main_view.html#a200c2c8e08e038e2ea86acc40c17d8d2" title="view.MainView.configureTopMenu" alt="" coords="1395,12,1624,39"/>
+<area shape="rect" id="node8" href="$d1/d75/classview_1_1_main_view.html#a9e27015c007bed90f32c79fc1187083f" title="view.MainView.MainView" alt="" coords="1672,12,1845,39"/>
+</map>
