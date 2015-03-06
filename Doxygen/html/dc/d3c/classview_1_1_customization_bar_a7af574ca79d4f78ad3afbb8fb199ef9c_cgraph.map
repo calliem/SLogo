@@ -1,6 +1,0 @@
-<map id="view.CustomizationBar.configureLanguageOptions" name="view.CustomizationBar.configureLanguageOptions">
-<area shape="rect" id="node2" href="$d4/dd9/classcontroller_1_1_s_logo_controller.html#a89c25e25137c85e944d4d1a5a31837cc" title="controller.SLogoController.set\lLanguage" alt="" coords="283,5,493,46"/>
-<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#a25efafa72b39ed9bf714d0f0f161aa28" title="model.Parser.setLanguage" alt="" coords="541,12,733,39"/>
-<area shape="rect" id="node4" href="$dc/df5/classmodel_1_1_parser.html#aa777d197a541c6ca6be224c0ce6754a5" title="model.Parser.addAllPatterns" alt="" coords="782,12,983,39"/>
-<area shape="rect" id="node5" href="$dc/df5/classmodel_1_1_parser.html#ab8b41b81d9a6ea903b050ca5a5235004" title="model.Parser.makePatterns" alt="" coords="1033,12,1231,39"/>
-</map>
