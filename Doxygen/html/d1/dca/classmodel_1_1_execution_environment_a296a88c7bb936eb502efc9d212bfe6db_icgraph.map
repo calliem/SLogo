@@ -1,0 +1,10 @@
+<map id="model.ExecutionEnvironment.getCommand" name="model.ExecutionEnvironment.getCommand">
+<area shape="rect" id="node2" href="$d9/d13/classmodel_1_1instructions_1_1_user_running_instruction.html#aa0e048b0bbca8aaddd3ea84bd0cf7bf7" title="model.instructions.UserRunning\lInstruction.execute" alt="" coords="288,5,512,46"/>
+<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="315,71,485,97"/>
+<area shape="rect" id="node4" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="560,71,781,97"/>
+<area shape="rect" id="node5" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="877,20,1005,47"/>
+<area shape="rect" id="node8" href="$d1/dc7/classview_1_1_side_bar.html#a9cca415e486afd24cccdd581f1938b13" title="view.SideBar.SideBar" alt="" coords="1124,96,1279,123"/>
+<area shape="rect" id="node9" href="$d1/dc7/classview_1_1_side_bar.html#ac97dbdf731a291e46ba643c78b4c5a93" title="view.SideBar.createHistoryPane" alt="" coords="830,121,1053,148"/>
+<area shape="rect" id="node6" href="$da/dc8/classview_1_1_editor.html#abd790752cfd8c9f01fb5b27a3680a982" title="view.Editor.createRunButton" alt="" coords="1102,20,1301,47"/>
+<area shape="rect" id="node7" href="$da/dc8/classview_1_1_editor.html#a5b88172770caabfc64e9b7adaee1a2c5" title="view.Editor.Editor" alt="" coords="1350,20,1479,47"/>
+</map>
