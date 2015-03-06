@@ -1,5 +1,0 @@
-<map id="model.instructions.Instruction.getName" name="model.instructions.Instruction.getName">
-<area shape="rect" id="node2" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#a738157283e6cd27e99b991d1e70258f6" title="model.instructions.Control\lInstruction.makeVariable" alt="" coords="329,5,519,46"/>
-<area shape="rect" id="node3" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#a5ec77a176debc7a35ce9026c808d021e" title="model.instructions.Control\lInstruction.execute" alt="" coords="809,5,999,46"/>
-<area shape="rect" id="node4" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#afdbf98dbab1ed6b6ace9a1773299eb30" title="model.instructions.Control\lInstruction.forLoop" alt="" coords="569,34,759,75"/>
-</map>
