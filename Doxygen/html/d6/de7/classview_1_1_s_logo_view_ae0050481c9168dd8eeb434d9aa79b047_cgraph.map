@@ -1,0 +1,12 @@
+<map id="view.SLogoView.configureUI" name="view.SLogoView.configureUI">
+<area shape="rect" id="node2" href="$d6/de7/classview_1_1_s_logo_view.html#acf432f20e1a7dda7bef97f0619fb0fa5" title="view.SLogoView.configure\lAddTurtlesButton" alt="" coords="261,27,443,69"/>
+<area shape="rect" id="node11" href="$d6/de7/classview_1_1_s_logo_view.html#acaf3f13ffb1cb6bbab33a6560cc80757" title="view.SLogoView.setGridPane\lConstraints" alt="" coords="251,93,453,134"/>
+<area shape="rect" id="node3" href="$da/d64/classview_1_1_workspace.html#a58b943798f78aa9414a854dcd54fa7ae" title="view.Workspace.addTurtle" alt="" coords="502,35,685,61"/>
+<area shape="rect" id="node4" href="$da/d64/classview_1_1_workspace.html#a9eea72f983d5e7ad5af85056d927e380" title="view.Workspace.configure\lTurtleEventHandler" alt="" coords="734,27,917,69"/>
+<area shape="rect" id="node5" href="$da/d64/classview_1_1_workspace.html#a16bda9a6a7fe7f8d3d7b09108675f9c4" title="view.Workspace.setActive\lTurtle" alt="" coords="966,57,1149,98"/>
+<area shape="rect" id="node7" href="$d8/df7/classview_1_1_turtle_view.html#ab5fdc3775e06339f4a68d1b795a81643" title="view.TurtleView.getID" alt="" coords="1460,5,1612,32"/>
+<area shape="rect" id="node6" href="$d1/dc7/classview_1_1_side_bar.html#a7d73038dbba05f96990b60664afa2670" title="view.SideBar.updateTurtle\lProperties" alt="" coords="1197,57,1381,98"/>
+<area shape="rect" id="node8" href="$d8/df7/classview_1_1_turtle_view.html#a85b9acc922cc69f27c79bf13e3356e09" title="view.TurtleView.getPenPosition" alt="" coords="1429,56,1643,83"/>
+<area shape="rect" id="node9" href="$da/d64/classview_1_1_workspace.html#ad460da1164f039e5ea9a265d446d13fe" title="view.Workspace.getTurtleMap" alt="" coords="1433,107,1639,133"/>
+<area shape="rect" id="node10" href="$d8/df7/classview_1_1_turtle_view.html#a5f7b22cd8ab69258535b18920a488b63" title="view.TurtleView.isShowing" alt="" coords="1445,157,1627,184"/>
+</map>
