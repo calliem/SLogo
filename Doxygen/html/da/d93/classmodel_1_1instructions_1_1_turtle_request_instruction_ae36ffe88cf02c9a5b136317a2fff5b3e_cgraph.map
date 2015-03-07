@@ -1,8 +1,0 @@
-<map id="model.instructions.TurtleRequestInstruction.execute" name="model.instructions.TurtleRequestInstruction.execute">
-<area shape="rect" id="node2" href="$d6/de7/classview_1_1_s_logo_view.html#a86b68450337856a499d7eef073749edc" title="view.SLogoView.getHeading" alt="" coords="251,5,450,32"/>
-<area shape="rect" id="node4" href="$d6/de7/classview_1_1_s_logo_view.html#adb5891749c8e97cd4d7414e02f72a0c8" title="view.SLogoView.getPenDown" alt="" coords="249,56,453,83"/>
-<area shape="rect" id="node5" href="$d6/de7/classview_1_1_s_logo_view.html#a2954864e547fcf60dfa25803d8b9622c" title="view.SLogoView.getXCor" alt="" coords="263,107,438,133"/>
-<area shape="rect" id="node6" href="$d6/de7/classview_1_1_s_logo_view.html#a1b85ba8a4f00e9b32bb8c4c596dfe78e" title="view.SLogoView.getYCor" alt="" coords="264,157,437,184"/>
-<area shape="rect" id="node7" href="$d6/de7/classview_1_1_s_logo_view.html#a821c9879a79ffe29b2e3427fbd5d97be" title="view.SLogoView.isShowing" alt="" coords="257,208,444,235"/>
-<area shape="rect" id="node3" href="$da/d64/classview_1_1_workspace.html#ad460da1164f039e5ea9a265d446d13fe" title="view.Workspace.getTurtleMap" alt="" coords="502,107,709,133"/>
-</map>
