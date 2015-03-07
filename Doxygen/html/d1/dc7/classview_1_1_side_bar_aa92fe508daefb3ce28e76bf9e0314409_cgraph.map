@@ -1,6 +1,0 @@
-<map id="view.SideBar.createVariableColumns" name="view.SideBar.createVariableColumns">
-<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a3afb09ec1e342a734f59161beca05b0e" title="model.ExecutionEnvironment.add\lVariable" alt="" coords="251,5,488,46"/>
-<area shape="rect" id="node4" href="$d6/d58/classview_1_1_property.html#a51a9b0be72a7421596996f752b75ad93" title="view.Property.getName" alt="" coords="285,71,453,97"/>
-<area shape="rect" id="node5" href="$d6/d58/classview_1_1_property.html#af57f40e26c8ed8fd7c55dfcda6215c6b" title="view.Property.setValue" alt="" coords="288,121,451,148"/>
-<area shape="rect" id="node3" href="$d1/dca/classmodel_1_1_execution_environment.html#a93fd01341f06dfa81727344b120aef66" title="model.ExecutionEnvironment.update\lObserver" alt="" coords="536,5,795,46"/>
-</map>
