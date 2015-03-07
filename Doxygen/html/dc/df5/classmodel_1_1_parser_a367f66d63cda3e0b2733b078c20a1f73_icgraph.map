@@ -1,0 +1,9 @@
+<map id="model.Parser.testMatches" name="model.Parser.testMatches">
+<area shape="rect" id="node2" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="243,31,413,57"/>
+<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="461,31,683,57"/>
+<area shape="rect" id="node4" href="$d1/dc7/classview_1_1_side_bar.html#ac97dbdf731a291e46ba643c78b4c5a93" title="view.SideBar.createHistoryPane" alt="" coords="731,5,954,32"/>
+<area shape="rect" id="node6" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="779,56,907,83"/>
+<area shape="rect" id="node5" href="$d1/dc7/classview_1_1_side_bar.html#aaa1459e91d727b5bd46e51f5b4a596f2" title="view.SideBar.SideBar" alt="" coords="1025,5,1180,32"/>
+<area shape="rect" id="node7" href="$da/dc8/classview_1_1_editor.html#abd790752cfd8c9f01fb5b27a3680a982" title="view.Editor.createRunButton" alt="" coords="1003,56,1202,83"/>
+<area shape="rect" id="node8" href="$da/dc8/classview_1_1_editor.html#a5b88172770caabfc64e9b7adaee1a2c5" title="view.Editor.Editor" alt="" coords="1251,56,1381,83"/>
+</map>
