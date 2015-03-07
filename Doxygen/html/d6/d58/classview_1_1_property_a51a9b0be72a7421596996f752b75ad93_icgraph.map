@@ -1,7 +1,0 @@
-<map id="view.Property.getName" name="view.Property.getName">
-<area shape="rect" id="node2" href="$d1/dc7/classview_1_1_side_bar.html#a4d3c67d26a035d35d92c0234f89f6796" title="view.SideBar.createVariablesPane" alt="" coords="221,5,456,32"/>
-<area shape="rect" id="node4" href="$d1/dc7/classview_1_1_side_bar.html#a9ee7c3d1f9e3f461361703420eb09b26" title="view.SideBar.updateVariable" alt="" coords="238,56,439,83"/>
-<area shape="rect" id="node3" href="$d1/dc7/classview_1_1_side_bar.html#a9cca415e486afd24cccdd581f1938b13" title="view.SideBar.SideBar" alt="" coords="540,5,695,32"/>
-<area shape="rect" id="node5" href="$d6/de7/classview_1_1_s_logo_view.html#aba44200de8094d8957a326b999b1168a" title="view.SLogoView.updateVariables" alt="" coords="504,56,731,83"/>
-<area shape="rect" id="node6" href="$d4/d64/classview_1_1_view_updater.html#aa4cfbf2ecad29abda8cd3aaff891539a" title="view.ViewUpdater.update" alt="" coords="527,107,708,133"/>
-</map>
