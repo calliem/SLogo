@@ -1,0 +1,6 @@
+<map id="view.Drawer.changeColor" name="view.Drawer.changeColor">
+<area shape="rect" id="node2" href="$dc/d3c/classview_1_1_customization_bar.html#af90deb872fbe4cfb0850c42f5f87e74f" title="view.CustomizationBar.select\lPenColor" alt="" coords="238,5,445,46"/>
+<area shape="rect" id="node4" href="$d4/d64/classview_1_1_view_updater.html#a48eecfbf1c8a334845e1c1014d3eed4e" title="view.ViewUpdater.setPenColor" alt="" coords="235,71,448,97"/>
+<area shape="rect" id="node3" href="$dc/d3c/classview_1_1_customization_bar.html#a592c1745f5c58bda804730c3ff711dd6" title="view.CustomizationBar.CustomizationBar" alt="" coords="496,12,779,39"/>
+<area shape="rect" id="node5" href="$d2/d2b/classmodel_1_1instructions_1_1_front_end_instruction.html#ad73f35e44bf151648463df17e10152ac" title="model.instructions.Front\lEndInstruction.execute" alt="" coords="549,63,725,105"/>
+</map>
