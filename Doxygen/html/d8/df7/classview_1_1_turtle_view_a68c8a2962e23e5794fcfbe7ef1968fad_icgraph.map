@@ -1,0 +1,8 @@
+<map id="view.TurtleView.getPenUp" name="view.TurtleView.getPenUp">
+<area shape="rect" id="node2" href="$de/d0a/classview_1_1_drawer.html#a6b9f362b8bc763689630b1fe7b5c1887" title="view.Drawer.draw" alt="" coords="421,22,552,49"/>
+<area shape="rect" id="node6" href="$de/d0a/classview_1_1_drawer.html#a24eafc164d9d0ab08036dc5cf7d72dd4" title="view.Drawer.wrapX" alt="" coords="235,22,373,49"/>
+<area shape="rect" id="node7" href="$de/d0a/classview_1_1_drawer.html#ad1636376006d26ed1ca9784e13f96a2a" title="view.Drawer.wrapY" alt="" coords="235,73,373,99"/>
+<area shape="rect" id="node3" href="$d6/de7/classview_1_1_s_logo_view.html#ae9c11c883a794eb50ed92ed27dbc039a" title="view.SLogoView.updateWorkspace" alt="" coords="600,22,837,49"/>
+<area shape="rect" id="node4" href="$d1/dd3/classmodel_1_1instructions_1_1_movement_instruction.html#a51c776093aeb820937b12e2b89eb2f89" title="model.instructions.Movement\lInstruction.updateView" alt="" coords="886,15,1098,56"/>
+<area shape="rect" id="node5" href="$d1/dd3/classmodel_1_1instructions_1_1_movement_instruction.html#a33e802cec8283d190a8daac6e485e3b4" title="model.instructions.Movement\lInstruction.execute" alt="" coords="1147,15,1359,56"/>
+</map>
