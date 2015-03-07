@@ -1,0 +1,10 @@
+<map id="model.Node.getChildren" name="model.Node.getChildren">
+<area shape="rect" id="node2" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="232,96,403,123"/>
+<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="451,96,672,123"/>
+<area shape="rect" id="node4" href="$d4/dd9/classcontroller_1_1_s_logo_controller.html#a1a88b376059e31c3f311d75fa640d848" title="controller.SLogoController.parse\lInput" alt="" coords="720,5,947,46"/>
+<area shape="rect" id="node5" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="769,71,897,97"/>
+<area shape="rect" id="node8" href="$d1/dc7/classview_1_1_side_bar.html#a9cca415e486afd24cccdd581f1938b13" title="view.SideBar.SideBar" alt="" coords="1017,147,1172,173"/>
+<area shape="rect" id="node9" href="$d1/dc7/classview_1_1_side_bar.html#ac97dbdf731a291e46ba643c78b4c5a93" title="view.SideBar.createHistoryPane" alt="" coords="722,172,945,199"/>
+<area shape="rect" id="node6" href="$da/dc8/classview_1_1_editor.html#abd790752cfd8c9f01fb5b27a3680a982" title="view.Editor.createRunButton" alt="" coords="995,71,1194,97"/>
+<area shape="rect" id="node7" href="$da/dc8/classview_1_1_editor.html#a5b88172770caabfc64e9b7adaee1a2c5" title="view.Editor.Editor" alt="" coords="1243,71,1373,97"/>
+</map>

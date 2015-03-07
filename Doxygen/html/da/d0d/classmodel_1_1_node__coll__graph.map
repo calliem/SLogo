@@ -1,0 +1,11 @@
+<map id="model.Node" name="model.Node">
+<area shape="rect" id="node3" href="$d1/dea/classmodel_1_1instructions_1_1_instruction.html" title="model.instructions.Instruction" alt="" coords="867,660,1077,687"/>
+<area shape="rect" id="node10" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="479,456,601,483"/>
+<area shape="rect" id="node21" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="919,769,1025,796"/>
+<area shape="rect" id="node5" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="435,796,645,823"/>
+<area shape="rect" id="node11" href="$da/d64/classview_1_1_workspace.html" title="view.Workspace" alt="" coords="1603,220,1723,247"/>
+<area shape="rect" id="node16" href="$d1/dc7/classview_1_1_side_bar.html" title="view.SideBar" alt="" coords="1311,389,1414,416"/>
+<area shape="rect" id="node34" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="1865,220,1962,247"/>
+<area shape="rect" id="node13" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="1305,89,1420,116"/>
+<area shape="rect" id="node28" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="1618,685,1707,712"/>
+</map>
