@@ -1,0 +1,10 @@
+<map id="model.instructions.Instruction" name="model.instructions.Instruction">
+<area shape="rect" id="node8" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="479,276,601,303"/>
+<area shape="rect" id="node20" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="919,732,1025,759"/>
+<area shape="rect" id="node3" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="435,653,645,680"/>
+<area shape="rect" id="node15" href="$d1/dc7/classview_1_1_side_bar.html" title="view.SideBar" alt="" coords="1311,504,1414,531"/>
+<area shape="rect" id="node9" href="$da/d64/classview_1_1_workspace.html" title="view.Workspace" alt="" coords="1603,228,1723,255"/>
+<area shape="rect" id="node32" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="1865,228,1962,255"/>
+<area shape="rect" id="node11" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="1305,337,1420,364"/>
+<area shape="rect" id="node26" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="1618,555,1707,581"/>
+</map>
