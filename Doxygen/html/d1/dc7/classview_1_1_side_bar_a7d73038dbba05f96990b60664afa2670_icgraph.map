@@ -1,0 +1,21 @@
+<map id="view.SideBar.updateTurtleProperties" name="view.SideBar.updateTurtleProperties">
+<area shape="rect" id="node2" href="$d6/de7/classview_1_1_s_logo_view.html#adc4b93dcbcbac6952cd976e41b68804c" title="view.SLogoView.clearScreen" alt="" coords="775,113,975,140"/>
+<area shape="rect" id="node4" href="$de/d0a/classview_1_1_drawer.html#a445998a068d81d57baeecaeb8219ae42" title="view.Drawer.draw" alt="" coords="271,179,401,205"/>
+<area shape="rect" id="node7" href="$da/d64/classview_1_1_workspace.html#a16bda9a6a7fe7f8d3d7b09108675f9c4" title="view.Workspace.setActive\lTurtle" alt="" coords="245,57,427,98"/>
+<area shape="rect" id="node16" href="$d6/de7/classview_1_1_s_logo_view.html#ae7ad67f4b629b134cb805842a20f4050" title="view.SLogoView.setHeading" alt="" coords="237,332,435,359"/>
+<area shape="rect" id="node18" href="$d6/de7/classview_1_1_s_logo_view.html#a978a65a0b82bac25044f7e2816a680cc" title="view.SLogoView.setPenUp" alt="" coords="508,383,695,409"/>
+<area shape="rect" id="node19" href="$d6/de7/classview_1_1_s_logo_view.html#a0948ea67bfc088f941e2af79727231ad" title="view.SLogoView.setXY" alt="" coords="795,231,954,257"/>
+<area shape="rect" id="node20" href="$d6/de7/classview_1_1_s_logo_view.html#a00710838e28dcb10fe6da3c0ec0c4e20" title="view.SLogoView.showTurtle" alt="" coords="241,281,431,308"/>
+<area shape="rect" id="node3" href="$d1/dd3/classmodel_1_1instructions_1_1_movement_instruction.html#a33e802cec8283d190a8daac6e485e3b4" title="model.instructions.Movement\lInstruction.execute" alt="" coords="1030,249,1242,290"/>
+<area shape="rect" id="node5" href="$d6/de7/classview_1_1_s_logo_view.html#a513d723c883c5b96c9fdf1f16f829bc8" title="view.SLogoView.updateWorkspace" alt="" coords="483,177,720,204"/>
+<area shape="rect" id="node6" href="$d1/dd3/classmodel_1_1instructions_1_1_movement_instruction.html#a51c776093aeb820937b12e2b89eb2f89" title="model.instructions.Movement\lInstruction.updateView" alt="" coords="769,165,981,206"/>
+<area shape="rect" id="node8" href="$da/d64/classview_1_1_workspace.html#a18e9a02bc4a643c47cb143c6c2e5b057" title="view.Workspace.Workspace" alt="" coords="1040,5,1232,32"/>
+<area shape="rect" id="node9" href="$da/d64/classview_1_1_workspace.html#a9eea72f983d5e7ad5af85056d927e380" title="view.Workspace.configure\lTurtleEventHandler" alt="" coords="510,57,693,98"/>
+<area shape="rect" id="node10" href="$da/d64/classview_1_1_workspace.html#a58b943798f78aa9414a854dcd54fa7ae" title="view.Workspace.addTurtle" alt="" coords="783,63,966,89"/>
+<area shape="rect" id="node11" href="$d6/de7/classview_1_1_s_logo_view.html#acf432f20e1a7dda7bef97f0619fb0fa5" title="view.SLogoView.configure\lAddTurtlesButton" alt="" coords="1045,57,1227,98"/>
+<area shape="rect" id="node12" href="$d6/de7/classview_1_1_s_logo_view.html#ae0050481c9168dd8eeb434d9aa79b047" title="view.SLogoView.configureUI" alt="" coords="1291,64,1487,91"/>
+<area shape="rect" id="node13" href="$d1/d75/classview_1_1_main_view.html#a39a2b399924a553ccd89dd2a2e6ea208" title="view.MainView.newTab" alt="" coords="1536,64,1696,91"/>
+<area shape="rect" id="node14" href="$d1/d75/classview_1_1_main_view.html#a200c2c8e08e038e2ea86acc40c17d8d2" title="view.MainView.configureTopMenu" alt="" coords="1744,64,1973,91"/>
+<area shape="rect" id="node15" href="$d1/d75/classview_1_1_main_view.html#a9e27015c007bed90f32c79fc1187083f" title="view.MainView.MainView" alt="" coords="2021,64,2195,91"/>
+<area shape="rect" id="node17" href="$d6/de7/classview_1_1_s_logo_view.html#afa2b659c4d080b5f927978b453633ab2" title="view.SLogoView.towards" alt="" coords="514,332,689,359"/>
+</map>
