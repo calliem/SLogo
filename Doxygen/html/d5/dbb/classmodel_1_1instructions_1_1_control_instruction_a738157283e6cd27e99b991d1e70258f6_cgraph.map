@@ -1,6 +1,0 @@
-<map id="model.instructions.ControlInstruction.makeVariable" name="model.instructions.ControlInstruction.makeVariable">
-<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a3afb09ec1e342a734f59161beca05b0e" title="model.ExecutionEnvironment.add\lVariable" alt="" coords="264,5,501,46"/>
-<area shape="rect" id="node4" href="$d1/dea/classmodel_1_1instructions_1_1_instruction.html#a652dd9af931f204857449f586c290801" title="model.instructions.Instruction.execute" alt="" coords="249,71,516,97"/>
-<area shape="rect" id="node5" href="$d1/dea/classmodel_1_1instructions_1_1_instruction.html#ae23102878cf36ded543d99d5dc4471a4" title="model.instructions.Instruction.getName" alt="" coords="245,121,520,148"/>
-<area shape="rect" id="node3" href="$d1/dca/classmodel_1_1_execution_environment.html#a93fd01341f06dfa81727344b120aef66" title="model.ExecutionEnvironment.update\lObserver" alt="" coords="568,5,827,46"/>
-</map>

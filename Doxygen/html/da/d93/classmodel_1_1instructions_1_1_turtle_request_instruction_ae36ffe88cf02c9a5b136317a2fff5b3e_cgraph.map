@@ -1,9 +1,0 @@
-<map id="model.instructions.TurtleRequestInstruction.execute" name="model.instructions.TurtleRequestInstruction.execute">
-<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a429a18123e450d0e124af2ccf2274b06" title="model.ExecutionEnvironment.get\lActiveTurtle" alt="" coords="248,5,483,46"/>
-<area shape="rect" id="node3" href="$d4/d64/classview_1_1_view_updater.html#a3db7d2ecda74d84e1fe3ff39363c235f" title="view.ViewUpdater.getHeading" alt="" coords="260,71,471,97"/>
-<area shape="rect" id="node5" href="$d4/d64/classview_1_1_view_updater.html#a5a8ab7b17323b0ee31de9c39964bdd86" title="view.ViewUpdater.getPenDown" alt="" coords="257,121,473,148"/>
-<area shape="rect" id="node6" href="$d4/d64/classview_1_1_view_updater.html#a31710e29788322071a77988fc6a6a629" title="view.ViewUpdater.getXCor" alt="" coords="272,172,459,199"/>
-<area shape="rect" id="node7" href="$d4/d64/classview_1_1_view_updater.html#ad06188d7864b313379c7a59629bee05c" title="view.ViewUpdater.getYCor" alt="" coords="273,223,458,249"/>
-<area shape="rect" id="node8" href="$d4/d64/classview_1_1_view_updater.html#af750c6e02e9def5c4c4060840ccb5220" title="view.ViewUpdater.isShowing" alt="" coords="266,273,465,300"/>
-<area shape="rect" id="node4" href="$da/d64/classview_1_1_workspace.html#ad460da1164f039e5ea9a265d446d13fe" title="view.Workspace.getTurtleMap" alt="" coords="531,172,738,199"/>
-</map>
