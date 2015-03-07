@@ -1,0 +1,9 @@
+<map id="view.Workspace" name="view.Workspace">
+<area shape="rect" id="node20" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="1213,187,1334,214"/>
+<area shape="rect" id="node28" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="806,35,903,62"/>
+<area shape="rect" id="node8" href="$d1/dc7/classview_1_1_side_bar.html" title="view.SideBar" alt="" coords="2006,478,2109,504"/>
+<area shape="rect" id="node4" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="180,192,295,219"/>
+<area shape="rect" id="node22" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="2233,504,2322,531"/>
+<area shape="rect" id="node11" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="1169,460,1378,487"/>
+<area shape="rect" id="node16" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="1652,332,1759,359"/>
+</map>
