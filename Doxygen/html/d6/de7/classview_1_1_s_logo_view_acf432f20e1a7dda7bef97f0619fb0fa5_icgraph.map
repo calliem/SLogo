@@ -1,9 +1,0 @@
-<map id="view.SLogoView.configureAddTurtlesButton" name="view.SLogoView.configureAddTurtlesButton">
-<area shape="rect" id="node2" href="$d6/de7/classview_1_1_s_logo_view.html#ae0050481c9168dd8eeb434d9aa79b047" title="view.SLogoView.configureUI" alt="" coords="238,31,434,57"/>
-<area shape="rect" id="node3" href="$d1/d75/classview_1_1_main_view.html#ade3718ede33fa2086649c8b3cf75d2f9" title="view.MainView.initTabs" alt="" coords="725,5,886,32"/>
-<area shape="rect" id="node5" href="$d1/d75/classview_1_1_main_view.html#a39a2b399924a553ccd89dd2a2e6ea208" title="view.MainView.newTab" alt="" coords="483,56,643,83"/>
-<area shape="rect" id="node4" href="$d1/d75/classview_1_1_main_view.html#a9e27015c007bed90f32c79fc1187083f" title="view.MainView.MainView" alt="" coords="1525,31,1699,57"/>
-<area shape="rect" id="node6" href="$d1/d75/classview_1_1_main_view.html#a0424800b5057be73f94e16ef2e1e2b33" title="view.MainView.configureFileMenu" alt="" coords="691,56,919,83"/>
-<area shape="rect" id="node7" href="$d1/d75/classview_1_1_main_view.html#a200c2c8e08e038e2ea86acc40c17d8d2" title="view.MainView.configureTopMenu" alt="" coords="968,56,1197,83"/>
-<area shape="rect" id="node8" href="$d1/d75/classview_1_1_main_view.html#aff9e267e9368512a16e425f08d7b3ea0" title="view.MainView.initRowConstraints" alt="" coords="1246,56,1477,83"/>
-</map>
