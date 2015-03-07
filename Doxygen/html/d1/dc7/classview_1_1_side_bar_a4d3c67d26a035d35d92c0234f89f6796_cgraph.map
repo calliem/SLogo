@@ -1,0 +1,7 @@
+<map id="view.SideBar.createVariablesPane" name="view.SideBar.createVariablesPane">
+<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a3afb09ec1e342a734f59161beca05b0e" title="model.ExecutionEnvironment.add\lVariable" alt="" coords="288,5,525,46"/>
+<area shape="rect" id="node4" href="$d1/dc7/classview_1_1_side_bar.html#a9e70a3dcc846be90d42957e25220b3b3" title="view.SideBar.createTitleText" alt="" coords="308,71,505,97"/>
+<area shape="rect" id="node5" href="$d6/d58/classview_1_1_property.html#a51a9b0be72a7421596996f752b75ad93" title="view.Property.getName" alt="" coords="323,121,491,148"/>
+<area shape="rect" id="node6" href="$d6/d58/classview_1_1_property.html#af57f40e26c8ed8fd7c55dfcda6215c6b" title="view.Property.setValue" alt="" coords="325,172,488,199"/>
+<area shape="rect" id="node3" href="$d1/dca/classmodel_1_1_execution_environment.html#a93fd01341f06dfa81727344b120aef66" title="model.ExecutionEnvironment.update\lObserver" alt="" coords="573,5,832,46"/>
+</map>

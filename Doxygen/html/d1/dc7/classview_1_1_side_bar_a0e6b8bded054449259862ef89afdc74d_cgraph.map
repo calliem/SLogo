@@ -1,0 +1,5 @@
+<map id="view.SideBar.updateTurtleProperties" name="view.SideBar.updateTurtleProperties">
+<area shape="rect" id="node2" href="$d8/df7/classview_1_1_turtle_view.html#ab5fdc3775e06339f4a68d1b795a81643" title="view.TurtleView.getID" alt="" coords="268,5,420,32"/>
+<area shape="rect" id="node3" href="$d8/df7/classview_1_1_turtle_view.html#a85b9acc922cc69f27c79bf13e3356e09" title="view.TurtleView.getPenPosition" alt="" coords="237,56,451,83"/>
+<area shape="rect" id="node4" href="$d8/df7/classview_1_1_turtle_view.html#a5f7b22cd8ab69258535b18920a488b63" title="view.TurtleView.isShowing" alt="" coords="253,107,435,133"/>
+</map>
