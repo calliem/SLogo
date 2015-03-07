@@ -1,0 +1,12 @@
+<map id="model.instructions.FrontEndInstruction.execute" name="model.instructions.FrontEndInstruction.execute">
+<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a429a18123e450d0e124af2ccf2274b06" title="model.ExecutionEnvironment.get\lActiveTurtle" alt="" coords="229,5,464,46"/>
+<area shape="rect" id="node3" href="$d4/d64/classview_1_1_view_updater.html#a06c4b1d2e671e58cb1e09852aa11eb15" title="view.ViewUpdater.setBackground\lColor" alt="" coords="231,70,463,111"/>
+<area shape="rect" id="node5" href="$d4/d64/classview_1_1_view_updater.html#a48eecfbf1c8a334845e1c1014d3eed4e" title="view.ViewUpdater.setPenColor" alt="" coords="240,136,453,163"/>
+<area shape="rect" id="node7" href="$d4/d64/classview_1_1_view_updater.html#afeceb6a4ebb5e3d12c51f027f8c5eabb" title="view.ViewUpdater.setPenSize" alt="" coords="243,187,450,213"/>
+<area shape="rect" id="node9" href="$d4/d64/classview_1_1_view_updater.html#a7bf016ce22316f6d22eb9710ced3dc4b" title="view.ViewUpdater.setShape" alt="" coords="248,245,445,272"/>
+<area shape="rect" id="node4" href="$da/d64/classview_1_1_workspace.html#a34a11a992dfdc0b97aa805ece5c075fc" title="view.Workspace.setBackground" alt="" coords="513,77,733,104"/>
+<area shape="rect" id="node6" href="$de/d0a/classview_1_1_drawer.html#acb2c7fbc7b944742edfe3ce8b63beaff" title="view.Drawer.changeColor" alt="" coords="533,136,713,163"/>
+<area shape="rect" id="node8" href="$de/d0a/classview_1_1_drawer.html#a9cb0e28a88520d78da1d438e68e80c60" title="view.Drawer.setStroke" alt="" coords="541,187,704,213"/>
+<area shape="rect" id="node10" href="$da/d64/classview_1_1_workspace.html#a4fa39210415cbc1075098e1babd0cec7" title="view.Workspace.getActive\lTurtle" alt="" coords="531,238,715,279"/>
+<area shape="rect" id="node11" href="$da/d64/classview_1_1_workspace.html#ad460da1164f039e5ea9a265d446d13fe" title="view.Workspace.getTurtleMap" alt="" coords="519,304,726,331"/>
+</map>
