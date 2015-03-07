@@ -1,7 +1,0 @@
-<map id="model.Parser.parseAndExecute" name="model.Parser.parseAndExecute">
-<area shape="rect" id="node2" href="$d1/dc7/classview_1_1_side_bar.html#ac97dbdf731a291e46ba643c78b4c5a93" title="view.SideBar.createHistoryPane" alt="" coords="275,5,498,32"/>
-<area shape="rect" id="node3" href="$d1/dc7/classview_1_1_side_bar.html#a9cca415e486afd24cccdd581f1938b13" title="view.SideBar.SideBar" alt="" coords="569,31,724,57"/>
-<area shape="rect" id="node4" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="323,107,451,133"/>
-<area shape="rect" id="node5" href="$da/dc8/classview_1_1_editor.html#abd790752cfd8c9f01fb5b27a3680a982" title="view.Editor.createRunButton" alt="" coords="547,107,746,133"/>
-<area shape="rect" id="node6" href="$da/dc8/classview_1_1_editor.html#a5b88172770caabfc64e9b7adaee1a2c5" title="view.Editor.Editor" alt="" coords="795,107,925,133"/>
-</map>
