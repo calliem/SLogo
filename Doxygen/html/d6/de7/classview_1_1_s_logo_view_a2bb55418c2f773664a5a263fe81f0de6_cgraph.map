@@ -1,0 +1,5 @@
+<map id="view.SLogoView.updateVariable" name="view.SLogoView.updateVariable">
+<area shape="rect" id="node2" href="$d1/dc7/classview_1_1_side_bar.html#a9ee7c3d1f9e3f461361703420eb09b26" title="view.SideBar.updateVariable" alt="" coords="275,31,477,57"/>
+<area shape="rect" id="node3" href="$d6/d58/classview_1_1_property.html#a51a9b0be72a7421596996f752b75ad93" title="view.Property.getName" alt="" coords="525,5,693,32"/>
+<area shape="rect" id="node4" href="$d6/d58/classview_1_1_property.html#ac169f9069f86f72b224cf0b1ccdd1c3c" title="view.Property.getValue" alt="" coords="527,56,691,83"/>
+</map>
