@@ -1,6 +1,0 @@
-<map id="view.SideBar.createVariablesPane" name="view.SideBar.createVariablesPane">
-<area shape="rect" id="node2" href="$d1/dc7/classview_1_1_side_bar.html#a9e70a3dcc846be90d42957e25220b3b3" title="view.SideBar.createTitleText" alt="" coords="288,5,485,32"/>
-<area shape="rect" id="node3" href="$d6/d58/classview_1_1_property.html#a51a9b0be72a7421596996f752b75ad93" title="view.Property.getName" alt="" coords="303,56,471,83"/>
-<area shape="rect" id="node4" href="$d6/d58/classview_1_1_property.html#ac169f9069f86f72b224cf0b1ccdd1c3c" title="view.Property.getValue" alt="" coords="305,107,469,133"/>
-<area shape="rect" id="node5" href="$d6/d58/classview_1_1_property.html#a41be10018dd84f1c75b075364f2d51a8" title="view.Property.setName" alt="" coords="303,157,470,184"/>
-</map>

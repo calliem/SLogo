@@ -1,7 +1,0 @@
-<map id="model.Parser.makePatterns" name="model.Parser.makePatterns">
-<area shape="rect" id="node2" href="$dc/df5/classmodel_1_1_parser.html#aa777d197a541c6ca6be224c0ce6754a5" title="model.Parser.addAllPatterns" alt="" coords="254,31,455,57"/>
-<area shape="rect" id="node3" href="$dc/df5/classmodel_1_1_parser.html#a303d64f26ab1dccf9842d2825751ecdb" title="model.Parser.Parser" alt="" coords="525,5,675,32"/>
-<area shape="rect" id="node4" href="$dc/df5/classmodel_1_1_parser.html#a25efafa72b39ed9bf714d0f0f161aa28" title="model.Parser.setLanguage" alt="" coords="504,56,696,83"/>
-<area shape="rect" id="node5" href="$dc/d3c/classview_1_1_customization_bar.html#a7af574ca79d4f78ad3afbb8fb199ef9c" title="view.CustomizationBar.configure\lLanguageOptions" alt="" coords="745,49,973,90"/>
-<area shape="rect" id="node6" href="$dc/d3c/classview_1_1_customization_bar.html#a592c1745f5c58bda804730c3ff711dd6" title="view.CustomizationBar.CustomizationBar" alt="" coords="1021,56,1304,83"/>
-</map>
