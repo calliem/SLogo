@@ -1,7 +1,0 @@
-<map id="view.Workspace.setBackground" name="view.Workspace.setBackground">
-<area shape="rect" id="node2" href="$dc/d3c/classview_1_1_customization_bar.html#a4edc7c993b5d2b9ee521e3078b833e31" title="view.CustomizationBar.change\lBackgroundColor" alt="" coords="283,5,499,46"/>
-<area shape="rect" id="node5" href="$d4/d64/classview_1_1_view_updater.html#a06c4b1d2e671e58cb1e09852aa11eb15" title="view.ViewUpdater.setBackground\lColor" alt="" coords="275,70,507,111"/>
-<area shape="rect" id="node3" href="$dc/d3c/classview_1_1_customization_bar.html#ab0d07736db72531d01430e2474957435" title="view.CustomizationBar.select\lBackgroundColor" alt="" coords="555,5,762,46"/>
-<area shape="rect" id="node4" href="$dc/d3c/classview_1_1_customization_bar.html#a592c1745f5c58bda804730c3ff711dd6" title="view.CustomizationBar.CustomizationBar" alt="" coords="811,12,1093,39"/>
-<area shape="rect" id="node6" href="$d2/d2b/classmodel_1_1instructions_1_1_front_end_instruction.html#ad73f35e44bf151648463df17e10152ac" title="model.instructions.Front\lEndInstruction.execute" alt="" coords="571,70,747,111"/>
-</map>
