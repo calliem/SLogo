@@ -1,0 +1,17 @@
+<map id="view.Editor.parse" name="view.Editor.parse">
+<area shape="rect" id="node2" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="181,329,403,355"/>
+<area shape="rect" id="node16" href="$d1/dc7/classview_1_1_side_bar.html#a7e070e482d2d160b3d5aa05f813d2607" title="view.SideBar.setHistory" alt="" coords="207,379,377,406"/>
+<area shape="rect" id="node3" href="$d1/dca/classmodel_1_1_execution_environment.html#abf8338dc619905fbc175bb52b246843e" title="model.ExecutionEnvironment.get\lActiveList" alt="" coords="451,221,685,263"/>
+<area shape="rect" id="node4" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="483,287,653,314"/>
+<area shape="rect" id="node13" href="$d6/de7/classview_1_1_s_logo_view.html#acf8498d7311bed1575638cca1c3f8777" title="view.SLogoView.openDialog" alt="" coords="754,470,950,497"/>
+<area shape="rect" id="node15" href="$d1/dca/classmodel_1_1_execution_environment.html#a472ef4da5205b0e95ec51fdbf52f654a" title="model.ExecutionEnvironment.set\lActiveTurtle" alt="" coords="451,483,685,524"/>
+<area shape="rect" id="node5" href="$d2/d19/classmodel_1_1_node.html#a59dd0ae47774a51a1590d7fd205b14d5" title="model.Node.addChild" alt="" coords="773,119,931,146"/>
+<area shape="rect" id="node6" href="$d1/dca/classmodel_1_1_execution_environment.html#a83ef2b9eaef50b67c0b978f2abb8200c" title="model.ExecutionEnvironment.add\lCommand" alt="" coords="733,171,971,212"/>
+<area shape="rect" id="node8" href="$d2/d19/classmodel_1_1_node.html#a30a55e40eef5514f8201573584ca9aea" title="model.Node.getChildren" alt="" coords="763,237,941,263"/>
+<area shape="rect" id="node9" href="$d2/d19/classmodel_1_1_node.html#a3036121af674a3a8ff49e82bd77ab5a4" title="model.Node.getInstruction" alt="" coords="756,287,948,314"/>
+<area shape="rect" id="node10" href="$d1/dea/classmodel_1_1instructions_1_1_instruction.html#afd4726dcbdbf559356c38970061d9b79" title="model.instructions.Instruction.get\lNumberOfArguments" alt="" coords="734,339,970,380"/>
+<area shape="rect" id="node11" href="$d1/dca/classmodel_1_1_execution_environment.html#a7eac9bbab890abbeb7db1a095fca5fc8" title="model.ExecutionEnvironment.get\lUserCommandMap" alt="" coords="735,404,969,445"/>
+<area shape="rect" id="node12" href="$dc/df5/classmodel_1_1_parser.html#ae24603572f6f919b363a7cef0cbe45c0" title="model.Parser.match" alt="" coords="1073,43,1223,70"/>
+<area shape="rect" id="node14" href="$dc/df5/classmodel_1_1_parser.html#a367f66d63cda3e0b2733b078c20a1f73" title="model.Parser.testMatches" alt="" coords="758,69,946,95"/>
+<area shape="rect" id="node7" href="$d1/dca/classmodel_1_1_execution_environment.html#a93fd01341f06dfa81727344b120aef66" title="model.ExecutionEnvironment.update\lObserver" alt="" coords="1019,341,1277,383"/>
+</map>

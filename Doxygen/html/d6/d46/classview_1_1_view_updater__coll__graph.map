@@ -1,0 +1,10 @@
+<map id="view.ViewUpdater" name="view.ViewUpdater">
+<area shape="rect" id="node19" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="919,835,1025,861"/>
+<area shape="rect" id="node3" href="$da/d64/classview_1_1_workspace.html" title="view.Workspace" alt="" coords="1629,297,1749,324"/>
+<area shape="rect" id="node22" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="2201,743,2322,769"/>
+<area shape="rect" id="node30" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="1922,120,2019,147"/>
+<area shape="rect" id="node10" href="$d1/dc7/classview_1_1_side_bar.html" title="view.SideBar" alt="" coords="1333,615,1435,641"/>
+<area shape="rect" id="node6" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="1327,269,1441,296"/>
+<area shape="rect" id="node24" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="1645,845,1734,872"/>
+<area shape="rect" id="node13" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="435,835,645,861"/>
+</map>
