@@ -1,0 +1,11 @@
+<map id="model.instructions.MultipleTurtlesInstruction" name="model.instructions.MultipleTurtlesInstruction">
+<area shape="rect" id="node2" href="$d1/dea/classmodel_1_1instructions_1_1_instruction.html" title="model.instructions.Instruction" alt="" coords="867,235,1077,261"/>
+<area shape="rect" id="node9" href="$d6/de7/classview_1_1_s_logo_view.html" title="view.SLogoView" alt="" coords="479,629,601,656"/>
+<area shape="rect" id="node21" href="$dc/df5/classmodel_1_1_parser.html" title="model.Parser" alt="" coords="919,747,1025,773"/>
+<area shape="rect" id="node4" href="$d1/dca/classmodel_1_1_execution_environment.html" title="model.ExecutionEnvironment" alt="" coords="435,380,645,407"/>
+<area shape="rect" id="node17" href="$d1/dc7/classview_1_1_side_bar.html" title="view.SideBar" alt="" coords="1318,419,1421,445"/>
+<area shape="rect" id="node10" href="$da/d64/classview_1_1_workspace.html" title="view.Workspace" alt="" coords="1616,224,1736,251"/>
+<area shape="rect" id="node33" href="$de/d0a/classview_1_1_drawer.html" title="view.Drawer" alt="" coords="1878,767,1975,793"/>
+<area shape="rect" id="node13" href="$d8/df7/classview_1_1_turtle_view.html" title="view.TurtleView" alt="" coords="1312,224,1427,251"/>
+<area shape="rect" id="node27" href="$da/dc8/classview_1_1_editor.html" title="view.Editor" alt="" coords="1631,639,1721,665"/>
+</map>
