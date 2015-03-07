@@ -1,0 +1,33 @@
+<map id="model.ExecutionEnvironment.updateObserver" name="model.ExecutionEnvironment.updateObserver">
+<area shape="rect" id="node2" href="$d1/dca/classmodel_1_1_execution_environment.html#a83ef2b9eaef50b67c0b978f2abb8200c" title="model.ExecutionEnvironment.add\lCommand" alt="" coords="316,230,553,271"/>
+<area shape="rect" id="node12" href="$d1/dca/classmodel_1_1_execution_environment.html#a96986e0e8de018fd9b1b2bf79de862e1" title="model.ExecutionEnvironment.add\lTurtle" alt="" coords="316,361,553,402"/>
+<area shape="rect" id="node24" href="$d1/dca/classmodel_1_1_execution_environment.html#a4765560d59fa5a9c8ce4948fc0a8855d" title="model.ExecutionEnvironment.add\lTurtleToActiveList" alt="" coords="316,426,553,467"/>
+<area shape="rect" id="node25" href="$d1/dca/classmodel_1_1_execution_environment.html#a3afb09ec1e342a734f59161beca05b0e" title="model.ExecutionEnvironment.add\lVariable" alt="" coords="316,103,553,145"/>
+<area shape="rect" id="node31" href="$d1/dca/classmodel_1_1_execution_environment.html#a2360a2c35bcb4879d0799710e7ee55d2" title="model.ExecutionEnvironment.clear\lActiveList" alt="" coords="313,491,557,533"/>
+<area shape="rect" id="node32" href="$d1/dca/classmodel_1_1_execution_environment.html#a472ef4da5205b0e95ec51fdbf52f654a" title="model.ExecutionEnvironment.set\lActiveTurtle" alt="" coords="318,295,551,337"/>
+<area shape="rect" id="node3" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#a3fb86527d4ea267d661780b12d33344e" title="model.instructions.Control\lInstruction.addToMap" alt="" coords="893,198,1083,239"/>
+<area shape="rect" id="node5" href="$dc/df5/classmodel_1_1_parser.html#ae83c95a5190fc22b9b70b1a40b76661c" title="model.Parser.makeTree" alt="" coords="632,255,803,281"/>
+<area shape="rect" id="node4" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#a5ec77a176debc7a35ce9026c808d021e" title="model.instructions.Control\lInstruction.execute" alt="" coords="1169,133,1359,174"/>
+<area shape="rect" id="node6" href="$dc/df5/classmodel_1_1_parser.html#ab83c099e5a13c82b1a12d7eedda6fbf9" title="model.Parser.parseAndExecute" alt="" coords="877,264,1099,291"/>
+<area shape="rect" id="node7" href="$da/dc8/classview_1_1_editor.html#a149e24d4e5e4464f3fb1601f2717663b" title="view.Editor.parse" alt="" coords="1200,264,1328,291"/>
+<area shape="rect" id="node10" href="$d1/dc7/classview_1_1_side_bar.html#ac97dbdf731a291e46ba643c78b4c5a93" title="view.SideBar.createHistoryPane" alt="" coords="1153,207,1375,233"/>
+<area shape="rect" id="node8" href="$da/dc8/classview_1_1_editor.html#abd790752cfd8c9f01fb5b27a3680a982" title="view.Editor.createRunButton" alt="" coords="1430,264,1629,291"/>
+<area shape="rect" id="node9" href="$da/dc8/classview_1_1_editor.html#a5b88172770caabfc64e9b7adaee1a2c5" title="view.Editor.Editor" alt="" coords="1727,264,1857,291"/>
+<area shape="rect" id="node11" href="$d1/dc7/classview_1_1_side_bar.html#aaa1459e91d727b5bd46e51f5b4a596f2" title="view.SideBar.SideBar" alt="" coords="1452,207,1607,233"/>
+<area shape="rect" id="node13" href="$da/d64/classview_1_1_workspace.html#a4abde41a3048fa8f64ddfec40c8ffdb7" title="view.Workspace.addTurtle" alt="" coords="626,363,809,389"/>
+<area shape="rect" id="node23" href="$dc/dbe/classmodel_1_1instructions_1_1_multiple_turtles_instruction.html#a592a35330637d1bd6edfe4476163e0a1" title="model.instructions.Multiple\lTurtlesInstruction.execute" alt="" coords="621,421,814,462"/>
+<area shape="rect" id="node14" href="$d6/de7/classview_1_1_s_logo_view.html#acf432f20e1a7dda7bef97f0619fb0fa5" title="view.SLogoView.configure\lAddTurtlesButton" alt="" coords="897,349,1079,390"/>
+<area shape="rect" id="node22" href="$da/d64/classview_1_1_workspace.html#abbd85b844575ebab6643ba4ddc5a1612" title="view.Workspace.Workspace" alt="" coords="892,415,1084,441"/>
+<area shape="rect" id="node15" href="$d6/de7/classview_1_1_s_logo_view.html#ae0050481c9168dd8eeb434d9aa79b047" title="view.SLogoView.configureUI" alt="" coords="1166,356,1362,383"/>
+<area shape="rect" id="node16" href="$d1/d75/classview_1_1_main_view.html#ade3718ede33fa2086649c8b3cf75d2f9" title="view.MainView.initTabs" alt="" coords="1989,327,2150,353"/>
+<area shape="rect" id="node18" href="$d1/d75/classview_1_1_main_view.html#a39a2b399924a553ccd89dd2a2e6ea208" title="view.MainView.newTab" alt="" coords="1449,377,1609,404"/>
+<area shape="rect" id="node17" href="$d1/d75/classview_1_1_main_view.html#a9e27015c007bed90f32c79fc1187083f" title="view.MainView.MainView" alt="" coords="2512,352,2685,379"/>
+<area shape="rect" id="node19" href="$d1/d75/classview_1_1_main_view.html#a0424800b5057be73f94e16ef2e1e2b33" title="view.MainView.configureFileMenu" alt="" coords="1678,377,1906,404"/>
+<area shape="rect" id="node20" href="$d1/d75/classview_1_1_main_view.html#a200c2c8e08e038e2ea86acc40c17d8d2" title="view.MainView.configureTopMenu" alt="" coords="1955,377,2184,404"/>
+<area shape="rect" id="node21" href="$d1/d75/classview_1_1_main_view.html#aff9e267e9368512a16e425f08d7b3ea0" title="view.MainView.initRowConstraints" alt="" coords="2233,377,2463,404"/>
+<area shape="rect" id="node26" href="$d1/dc7/classview_1_1_side_bar.html#aa92fe508daefb3ce28e76bf9e0314409" title="view.SideBar.createVariable\lColumns" alt="" coords="619,5,816,46"/>
+<area shape="rect" id="node28" href="$d9/d13/classmodel_1_1instructions_1_1_user_running_instruction.html#aa0e048b0bbca8aaddd3ea84bd0cf7bf7" title="model.instructions.UserRunning\lInstruction.execute" alt="" coords="605,70,829,111"/>
+<area shape="rect" id="node29" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#a738157283e6cd27e99b991d1e70258f6" title="model.instructions.Control\lInstruction.makeVariable" alt="" coords="622,135,813,177"/>
+<area shape="rect" id="node27" href="$d1/dc7/classview_1_1_side_bar.html#a4d3c67d26a035d35d92c0234f89f6796" title="view.SideBar.createVariablesPane" alt="" coords="1147,52,1381,79"/>
+<area shape="rect" id="node30" href="$d5/dbb/classmodel_1_1instructions_1_1_control_instruction.html#afdbf98dbab1ed6b6ace9a1773299eb30" title="model.instructions.Control\lInstruction.forLoop" alt="" coords="893,133,1083,174"/>
+</map>
